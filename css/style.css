@@ -1,7 +1,9 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kiwi+Maru&family=Sawarabi+Gothic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kiwi+Maru&family=Sawarabi+Gothic&family=Zen+Kaku+Gothic+New&display=swap");
+
 html {
   font-size: 62.5%;
 }
@@ -21,7 +23,7 @@ html {
 body {
   font-size: 1.6rem;
   color: #296eab;
-  font-family: "Sawarabi Gothic", sans-serif;
+  font-family: "Kiwi Maru", serif;
 }
 
 * {
@@ -97,7 +99,7 @@ header .wrapper span,
 
   header .wrapper span,
   .interest p {
-    background: linear-gradient(transparent calc(100% - 10px), #f940bc calc(100% - 10px));
+    background: linear-gradient(transparent calc(100% - 5px), #22d1ff calc(100% - 2px));
   }
 }
 
@@ -147,8 +149,9 @@ header {
 
 @media screen and (max-width: 767px) {
   header {
-    background-image: url(../images/main_sp.png);
-    background-position: center top;
+    background-image: url(../images/dental_cover-sp.png);
+    background-size: 100% auto;
+    background-position: 0% 27%;
     height: 41.7rem;
   }
 }
@@ -207,7 +210,7 @@ header .wrapper span+span {
 header .wrapper img {
   display: block;
   margin: 4.8rem auto 2.4rem;
-  max-width: 45rem;
+  max-width: 50rem;
   width: 100%;
 }
 
@@ -219,9 +222,10 @@ header .wrapper img {
 }
 
 .contact {
-  background-color: #3fbcfa;
+  background-color: #22d1ff;
   padding-top: 4.4rem;
   padding-bottom: 4.5rem;
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 
 .contact.conversion01 {
@@ -476,12 +480,13 @@ header .wrapper img {
 }
 
 .bg_stripe {
-  background: repeating-linear-gradient(45deg, #fff, #fff 15px, #f5f5f5 0, #f5f5f5 30px);
+
+  background: repeating-linear-gradient(0deg, rgba(100, 255, 255, 0.2) 0 20px, rgba(66, 213, 42, 0.5) 20px 40px), repeating-linear-gradient(90deg, rgba(111, 198, 226, 0.6) 0 20px, rgba(255, 255, 255, 1) 20px 40px);
 }
 
 @media screen and (max-width: 767px) {
   .bg_stripe {
-    background: repeating-linear-gradient(45deg, #fff, #fff 5px, #f5f5f5 0, #f5f5f5 10px);
+    background: repeating-linear-gradient(0deg, rgba(100, 255, 255, 0.2) 0 20px, rgba(66, 213, 42, 0.5) 20px 40px), repeating-linear-gradient(90deg, rgba(111, 198, 226, 0.6) 0 20px, rgba(255, 255, 255, 1) 20px 40px);
   }
 }
 
