@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="450"
+   height="120"
+   viewBox="0 0 450 120"
+   sodipodi:docname="SunShineLogo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="51.138973"
+       y="-242.58231"
+       width="311.64178"
+       height="57.695251"
+       id="rect6" />
+    <rect
+       x="90.913727"
+       y="136.37059"
+       width="211.54926"
+       height="25.788031"
+       id="rect7" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1422222"
+     inkscape:cx="224.7666"
+     inkscape:cy="59.98444"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g7"
+       transform="translate(77.482966,-7.526559)">
+      <rect
+         style="fill:#22d1ff;fill-opacity:1;stroke-width:16.4"
+         id="rect3"
+         width="449.32364"
+         height="121.94678"
+         x="-75.615746"
+         y="6.9933639" />
+      <text
+         xml:space="preserve"
+         id="text6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#f6f035;fill-opacity:0.90583;stroke-width:16.4"
+         transform="translate(-64.688616,270.99284)"><tspan
+           x="51.138672"
+           y="-198.48508"
+           id="tspan6"><tspan
+             style="font-size:48px"
+             id="tspan5">SunShine Clinic</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#f6f035;fill-opacity:0.90583;stroke-width:16.4"
+         transform="translate(-27.973455,-56.383996)"><tspan
+           x="90.914062"
+           y="154.74613"
+           id="tspan8"><tspan
+             style="font-style:italic;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Italic'"
+             id="tspan7">サンシャインクリニック</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
