@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap");
 html {
   font-size: 62.5%;
 }
@@ -20,8 +20,8 @@ html {
 
 body {
   font-size: 1.6rem;
-  color: #454545;
-  font-family: "Noto Sans JP", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  color: #296eab;
+  font-family: "Sawarabi Gothic", sans-serif;
 }
 
 * {
@@ -89,7 +89,7 @@ li {
 header .wrapper span,
 .interest p {
   font-weight: 900;
-  background: linear-gradient(transparent calc(100% - 20px), #f940bc calc(100% - 20px));
+  background: linear-gradient(transparent calc(100% - 15px), #22d1ff calc(100% - 5px));
   text-shadow: 3px 0 #fff;
 }
 
@@ -139,7 +139,7 @@ header .wrapper span,
 }
 
 header {
-  background-image: url(../images/main_pc.jpg);
+  background-image: url(../images/cover_dentist.jpg);
   background-position: left center;
   background-size: cover;
   height: 68.4rem;
@@ -147,7 +147,7 @@ header {
 
 @media screen and (max-width: 767px) {
   header {
-    background-image: url(../images/main_sp.jpg);
+    background-image: url(../images/main_sp.png);
     background-position: center top;
     height: 41.7rem;
   }
